@@ -18,6 +18,8 @@ sudo apt-get install dosfstools e2fsprogs fdisk kpartx mtools rsync
 ```bash
 repo init -u https://android.googlesource.com/platform/manifest -b android-15.0.0_r32 --depth=1
 curl -o .repo/local_manifests/manifest_brcm_rpi.xml -L https://raw.githubusercontent.com/raspberry-vanilla/android_local_manifest/android-15.0/manifest_brcm_rpi.xml --create-dirs
+curl -o .repo/local_manifests/coda.xml -L https://raw.githubusercontent.com/Coda-ITI/android_local_manifest/main/manifest_coda.xml --create-dirs
+
 ```
 
 4. Sync source code:
