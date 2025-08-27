@@ -1,4 +1,4 @@
-# Coda AOSP Android 15 (based on raspberry-vanilla aosp for pi 4)
+# Coda AOSP Android 15 (based on raspberry-vanilla aosp for pi 5)
 
 
 This project is built upon Android 15.0.0_r32 and the Raspberry Pi Vanilla project for the Raspberry Pi 5. It is developed as part of the graduation project for the ITI Embedded Systems Track Intake 45.
