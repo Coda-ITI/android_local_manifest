@@ -13,7 +13,7 @@ This project is built upon Android 15.0.0_r32 and the Raspberry Pi Vanilla proje
 sudo apt-get install dosfstools e2fsprogs fdisk kpartx mtools rsync
 ```
 
-3. Initialize repo with Raspberry Pi Vanilla manifest and add VehicleScan custom manifest:
+3. Initialize repo with Raspberry Pi Vanilla manifest and add Coda custom manifest:
 
 ```bash
 repo init -u https://android.googlesource.com/platform/manifest -b android-15.0.0_r32 --depth=1
