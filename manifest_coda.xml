@@ -23,4 +23,9 @@
     <project path="vendor/IVI-Coda" name="Coda-ITI/IVI-Coda" remote="github" revision="main"/> 
     
     
+    <project path="vendor/ivi-build-tools" name="Coda-ITI/IVI-repo-hooks" remote="github" revision="main" />
+
+
+    <repo-hooks in-project="Coda-ITI/IVI-repo-hooks" enabled-list="post-sync" />
+    
 </manifest>
