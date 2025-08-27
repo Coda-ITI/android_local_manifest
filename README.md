@@ -49,3 +49,8 @@ make bootimage systemimage vendorimage -j$(nproc)
 ```bash
 ./rpi5-mkimg.sh
 ```
+
+9. flash the image using your preferred tool
+
+## Known Issues
+
